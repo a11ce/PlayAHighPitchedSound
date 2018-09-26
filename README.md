@@ -1,4 +1,4 @@
-# Alexa, play a high-pitched sound
+# Play a high-pitched sound
 
 Play annoying tones with a simple voice command!
 
@@ -8,7 +8,7 @@ Python libraries `speech_recognition` and `pyaudio`, both on pip3.
 
 ### How to use
 
-- Run `python3 alexaplayahighpitchedsound.py` and wait for the short 'ready' tone.
+- Run `python3 playahighpitchedsound.py` and wait for the short 'ready' tone.
 - Say a command including the phrase "play a high-pitched".
 - After the tone plays, the program will start listening again.
 
