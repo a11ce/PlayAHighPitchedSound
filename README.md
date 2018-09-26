@@ -1,6 +1,6 @@
 # Play a high-pitched sound
 
-Play annoying tones with a simple voice command!
+Play an annoying tone with just a voice command!
 
 ### Prerequisites
 
